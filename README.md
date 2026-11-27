@@ -13,7 +13,7 @@ a mantener rutinas constantes en el cuidado de sus plantas.
 
 ## Mi rol
 
-- Gestión de proyectos
+- Gestión de proyectos (PM)
 - Desarrollo frontend
 - Desarrollo backend
 - Diseño UI/UX
