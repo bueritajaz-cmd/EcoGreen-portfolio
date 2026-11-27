@@ -30,3 +30,27 @@ a mantener rutinas constantes en el cuidado de sus plantas.
 
 Explora el proyecto en funcionamiento:
 https://www.ecogren.online
+
+## Screenshots
+
+### Principal
+![Home](EG-principal.png)
+
+### Home
+![Home](EG-home.png)
+
+### Login
+![Login](EG-login.png)
+
+### Bibloteca
+![Bibloteca](EG-bibloteca.png)
+
+### Calendario
+![Calendario](EG-calendario.png)
+
+### Desafios
+![Dashboard](EG-desafios.png)
+
+### Foro
+![Dashboard](EG-foro.png)
+
